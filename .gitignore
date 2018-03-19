@@ -97,3 +97,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+zero/db.sqlite3
+zero/backend/migrations/
